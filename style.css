@@ -11,8 +11,8 @@ body {
   background-color: hsl(0, 100%, 74%);
   padding-left: 100px;
   padding-right: 100px;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url(images/bg-intro-desktop.png);
 }
 @media (max-width: 992px) {
